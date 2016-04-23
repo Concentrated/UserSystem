@@ -8,4 +8,7 @@ Simple Login and Register System.
       -create new user and login existing user.
       
 
+Login Url: http://complexpie.com/login
+Register Url: http://complexpie.com/register
+
 Session is not yet created during login.
